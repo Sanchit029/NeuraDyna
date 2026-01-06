@@ -2,6 +2,12 @@
 
 A responsive Task Management Dashboard built with React.js, Redux Toolkit, and Tailwind CSS.
 
+## Live Demo
+
+**Application URL**: [https://delightful-halva-81892e.netlify.app/](https://delightful-halva-81892e.netlify.app/)
+
+**GitHub Repository**: [https://github.com/Sanchit029/NeuraDyna](https://github.com/Sanchit029/NeuraDyna)
+
 ## Features
 
 - Task CRUD Operations (Create, Read, Update, Delete)
